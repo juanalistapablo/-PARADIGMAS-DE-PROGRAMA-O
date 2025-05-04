@@ -46,6 +46,8 @@ Contém:
 ```prolog
 ?- [filmes].
 ```
+4. Teste as regras com:
+
 ```prolog
 ?- classico(Titulo, Ano).
 ?- longo(Titulo).
