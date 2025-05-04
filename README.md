@@ -1,4 +1,4 @@
-# Trabalho Individual – Regressão Linear **Multivariada**
+# Repositorio –  **PARADIGMAS DE PROGRAMAÇÃO**
 
 ---
 
