@@ -46,5 +46,9 @@ Contém:
 ```prolog
 ?- [filmes].
 ```
-
+```prolog
+?- classico(Titulo, Ano).
+?- longo(Titulo).
+?- lancamento(Titulo, Ano).
+```
 
