@@ -1,4 +1,4 @@
-# Repositorio –  **PARADIGMAS DE PROGRAMAÇÃO**
+# Repositorio –  ** BANCO DE DADOS**
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Universidade Federal do Maranhão  
 ### Engenharia da Computação  
-### Disciplina: EECP0053 – **Tópicos em Engenharia da Computação II – Fundamentos de Redes Neurais**  
+### Disciplina: EECP0053 – **EECP0005 - PARADIGMAS DE PROGRAMAÇÃO**  
 *discente*:**JUAN PABLO F. M. MACEDO
 **E-mail:** <juan.mondego@discente.ufma.br>  
 **Semestre:** 2025.1  
