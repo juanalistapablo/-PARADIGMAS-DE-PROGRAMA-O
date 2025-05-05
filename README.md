@@ -9,8 +9,11 @@
 ## Universidade Federal do Maranhão  
 ### Engenharia da Computação  
 ### Disciplina: EECP0053 – **EECP0005 - PARADIGMAS DE PROGRAMAÇÃO**  
-*discente*:**JUAN PABLO F. M. MACEDO
+
+*discente*:**JUAN PABLO F. M. MACEDO**
+
 **E-mail:** <juan.mondego@discente.ufma.br>  
+
 **Semestre:** 2025.1  
 
 ---
