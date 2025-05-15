@@ -1,0 +1,10 @@
+(defun remover (elem lista)
+  (cond
+    ((null lista) nil) ; lista vazia → retorna lista vazia
+    ((equal elem (car lista)) (remover elem (cdr lista))) ; pula o elemento igual
+    (t (cons (car lista) (remover elem (cdr lista)))))) ; mantém o elemento e continua
+
+
+;Exemplo de uso:
+;(remover 'b '(a b c b d))
+; Resultado: (a c d)
