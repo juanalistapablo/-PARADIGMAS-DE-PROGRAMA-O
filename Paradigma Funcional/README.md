@@ -39,7 +39,9 @@ Este projeto foi desenvolvido para a disciplina de Paradigmas de Programação, 
 
 ## 🛠️ Ferramenta Utilizada  
 - Linguagem de Programação: **LISP**  
-- Ambiente de desenvolvimento: qualquer interpretador LISP gratuito, como **GNU CLISP** ou **SBCL**
+- Ambiente de desenvolvimento: **Common-Lisp.net** (ferramenta gratuita para desenvolvimento e execução de código Common Lisp)
+- Ambiente de desnvolvimentp **Visual Stude Code**
+
 
 ---
 
