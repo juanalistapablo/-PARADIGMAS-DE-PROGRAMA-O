@@ -1,0 +1,8 @@
+(defun adicionar (elem lista)
+  (if (null lista)
+      (list elem) ; lista vazia: cria lista com elem
+      (cons (car lista) (adicionar elem (cdr lista))))) ; mantém o primeiro e adiciona no resto
+
+
+;(adicionar 'x '(a b c))
+; Resultado: (a b c x)
