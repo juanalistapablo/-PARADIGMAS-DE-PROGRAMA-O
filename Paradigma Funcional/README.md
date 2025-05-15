@@ -1,6 +1,6 @@
 # Atividade de Paradigmas de Programação – LISP  
 
-## **Engenharia da Computação **  Universidade Federal do Maranhão (UFMA)  
+## **Engenharia da Computação**  Universidade Federal do Maranhão (UFMA)  
 
 ---
 
