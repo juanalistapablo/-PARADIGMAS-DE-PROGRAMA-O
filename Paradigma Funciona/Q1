@@ -1,0 +1,20 @@
+(defun calc (op1 operador op2)
+  "Calcula o resultado da operação entre op1 e op2 conforme o operador."
+  (let ((resultado
+         (cond
+          ((string= operador "+") (+ op1 op2))
+          ((string= operador "-") (- op1 op2))
+          ((string= operador "*") (* op1 op2))
+          ((string= operador "/") 
+           (if (= op2 0)
+               (error "Divisão por zero não é permitida!")
+             (/ op1 op2)))
+          (t (error "Operador inválido: %s" operador)))))
+    (message "Resultado: %s" resultado)
+    resultado))
+
+;=== COMO USAR : ===
+(calc 10 "+" 5)  ;; Resultado: 15
+(calc 10 "/" 0)  ;; Dá erro de divisão por zero
+(calc 7 "*" 3)   ;; Resultado: 21
+(calc 9 "x" 3)   ;; Erro operador inválido
