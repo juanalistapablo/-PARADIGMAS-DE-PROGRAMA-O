@@ -1,0 +1,9 @@
+(defun duplicar (lista)
+  (if (null lista)
+      nil
+      (cons (car lista)
+            (cons (car lista)
+                  (duplicar (cdr lista))))))
+
+;(duplicar '(a b c))
+; Resultado: (a a b b c c)
