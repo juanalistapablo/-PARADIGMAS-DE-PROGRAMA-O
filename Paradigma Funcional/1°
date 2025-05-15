@@ -1,0 +1,25 @@
+(defun calc ()
+  (format t "Digite o primeiro número: ")
+  (let ((op1 (read)))
+    (format t "Digite o operador (+, -, *, /): ")
+    (let ((operador (read)))
+      (format t "Digite o segundo número: ")
+      (let ((op2 (read)))
+        (let ((resultado
+                (cond
+                  ((eq operador '+) (+ op1 op2))
+                  ((eq operador '-) (- op1 op2))
+                  ((eq operador '*) (* op1 op2))
+                  ((eq operador '/) (if (/= op2 0)
+                                        (/ op1 op2)
+                                        (error "Divisão por zero!")))
+                  (t (error "Operador inválido!")))))
+          (format t "Resultado: ~a~%" resultado))))))
+
+; ===Exemplo de uso real no prompt===
+text
+Copiar
+Digite o primeiro número: 10
+Digite o operador (+, -, *, /): +
+Digite o segundo número: 5
+Resultado: 15
