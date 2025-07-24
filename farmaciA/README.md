@@ -15,3 +15,5 @@ Estrutura do Código: ServiceInterface.java: Contém a implementação da interf
 Estoque.java: Classe que representa o estoque e suas operações, como adicionar, alterar e excluir produtos.
 
 Medicamento.java e ProdutoGeral.java: Classes que representam os tipos específicos de produtos, cada uma com seus atributos exclusivos.
+
+FEITO POR : Juan Pablo Furtado, Lucas Emanoel Amaral Gomes, Matheus Donavan 
