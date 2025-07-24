@@ -1,7 +1,6 @@
 # Farmacia Artemis
 
-Bem-vindo ao Farmácia Art3mis, um sistema de gerenciamento de estoque e produtos desenvolvido em Java como projeto para a terceira nota na disciplina de Paradigmas da Programação da UFMA! Este projeto oferece uma interface gráfica simples para adicionar, alterar, apagar e visualizar produtos em uma farmácia. autores: matheus costa alves (matheus2049alves) e Diogo Brasil da Silva (diogobrasil)
-
+Bem-vindo ao Farmácia Art3mis, um sistema de gerenciamento de estoque e produtos desenvolvido em Java como projeto para a terceira nota na disciplina de Paradigmas da Programação da UFMA! Este projeto oferece uma interface gráfica simples para adicionar, alterar, apagar e visualizar produtos em uma farmácia. 
 Funcionalidades Principais: Adicionar Produto: Escolha entre adicionar medicamentos ou produtos gerais. Preencha as informações necessárias, como nome, preço, categoria e detalhes específicos, como tipo ou marca, dependendo do tipo de produto.
 
 Alterar Produto: Atualize as informações de um produto existente, fornecendo o nome antigo e as novas informações.
